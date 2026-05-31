@@ -199,10 +199,10 @@ class TableConditionalDiffusion(nn.Module):
         use_col_context_attn: bool = True,
         col_attn_heads: int = 4,
         col_attn_dropout: float = 0.1,
-        col_weight: float = 1.0,
+        col_weight: float = 0.1,
         gem_temp: float = 0.1,
-        lambda_recon: float = 0.1,
-        mu_ssm: float = 10.0,
+        lambda_recon: float = 1.0,
+        mu_ssm: float = 0.1,
         ssm_temp: float = 0.1,
     ):
         super().__init__()
