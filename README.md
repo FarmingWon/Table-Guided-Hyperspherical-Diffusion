@@ -31,8 +31,6 @@ Python  >= 3.10
 PyTorch >= 2.0
 ```
 
-Install dependencies:
-
 ---
 
 ## 📂 Datasets
