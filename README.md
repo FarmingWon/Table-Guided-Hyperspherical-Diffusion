@@ -1,4 +1,6 @@
 # Table-Guided Hyperspherical Diffusion for Preserving Semantic Dependencies in Column Type Annotation
+This repository contains the source code for the CIKM 2026 paper **"Table-Guided Hyperspherical Diffusion for Preserving Semantic Dependencies in Column Type Annotation"**.
+
 
 ---
 
@@ -86,3 +88,11 @@ Our framework consistently outperforms discriminative and LLM-based baselines ac
 | SOTAB-CTA | **87.50** | **86.46** |
 | WikiTables-CTA | **93.37** | **73.19** |
 
+
+## References
+
+If you use our dataset or useful in your research, please kindly cite our papers.
+
+```
+
+```
